@@ -1,0 +1,16 @@
+id: I1691BB57
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:22:34.966296
+last_modified: 2023-02-08 15:22:34.966424
+source_metadata:
+  title: Saddharmapuṇḍarīka
+  language: bo
+bases:
+  39C4:
+    base_file: 39C4.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
